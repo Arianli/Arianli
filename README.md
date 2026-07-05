@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Marian Lin
 
-<!--
-**Arianli/Arianli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at the University of Toronto interested in computer vision, machine learning, and affective computing.
 
-Here are some ideas to get you started:
+My current research interests include facial expression recognition, emotion AI, and human-centered artificial intelligence. I previously worked on a deep learning-based facial expression recognition project with HKUST CSE, using Python, OpenCV, TensorFlow, and CNN-based models for seven-category emotion classification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Computer Vision
+- Facial Expression Recognition
+- Affective Computing
+- Applied Machine Learning
+- Human-Centered AI
+
+## Technical Skills
+
+- Programming: Python, Java, SQL
+- Machine Learning: TensorFlow, NumPy, Pandas
+- Computer Vision: OpenCV
+- Tools: Git, GitHub, Jupyter Notebook
+
+## Current Focus
+
+I am currently building small research-oriented projects related to facial expression recognition and emotion-aware AI systems.
